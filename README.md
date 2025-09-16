@@ -56,10 +56,10 @@ You: what’s the time
 Bot: The current time is 14:36:12 ⏰
 
 You: tell me a joke
-Bot: Why don’t programmers like nature? Too many bugs! 🐞
+Bot: Why don’t programmers like nature? Too many bugs! 
 
 You: what's your name
-Bot: I'm ChatBot 🤖, created for CodeAlpha Internship Task 4.
+Bot: I'm ChatBot 🤖.
 
 You: bye
 Bot: Goodbye! 👋 Have a wonderful day!
